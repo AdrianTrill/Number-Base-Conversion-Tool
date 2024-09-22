@@ -26,7 +26,7 @@ This project implements various number base conversion techniques with robust va
 ## **Project Structure**
 
 ```bash
-.
+
 📁 ConversionMethods/                # Core conversion logic
    └── ConversionMethods.py          # Methods for rapid, substitution, successive divisions, and intermediary conversions.
 
